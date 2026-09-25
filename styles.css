@@ -18,3 +18,16 @@ div {
 .subsection.header {
     color: red;
 }
+
+.subsection.header {
+    color: red;
+}
+
+.subsection#preview {
+    color: green;
+}
+
+
+.ancestor .contents {
+    color: black;
+}
