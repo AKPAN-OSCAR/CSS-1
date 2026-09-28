@@ -1,0 +1,9 @@
+body {
+    background-color: lightgray;
+    color: darkslateblue;
+}
+
+h1 {
+    color: tomato;
+    border-bottom: 2px solid black;
+}

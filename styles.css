@@ -31,3 +31,21 @@ div {
 .ancestor .contents {
     color: black;
 }
+
+
+/* hex, rgb nd hsl properties */
+
+p {
+  /* hex example: */
+  color: #1100ff;
+}
+
+p {
+  /* rgb example: */
+  color: rgb(100, 0, 127);
+}
+
+p {
+  /* hsl example: */
+  color: hsl(15, 82%, 56%);
+}
